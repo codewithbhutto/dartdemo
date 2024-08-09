@@ -1,3 +1,3 @@
 void main() {
-  print('Hello Walo and Dino..');
+  print('Hello git action.');
 }
